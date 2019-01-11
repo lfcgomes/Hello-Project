@@ -1,0 +1,19 @@
+{
+  "name": "hello-project",
+  "version": "1.0.0",
+  "description": "Hello World project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfcgomes/Hello-Project.git"
+  },
+  "author": "Luis Gomes",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lfcgomes/Hello-Project/issues"
+  },
+  "homepage": "https://github.com/lfcgomes/Hello-Project#readme"
+}
